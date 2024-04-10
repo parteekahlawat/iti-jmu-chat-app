@@ -29,22 +29,22 @@ This is a full stack chat application built with Next.js for the frontend, Expre
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/full-stack-chat-app.git
+    git clone https://github.com/parteekahlawat/iti-jmu-chat-app.git
     ```
 
 2. **Navigate to the project directory:**
     ```bash
-    cd full-stack-chat-app
+    cd iti-jmu-chat-app
     ```
 
 3. **Install dependencies for both frontend and backend:**
     ```bash
     # Install frontend dependencies
-    cd frontend
+    cd client
     npm install
 
     # Install backend dependencies
-    cd ../backend
+    cd ../server
     npm install
     ```
 
@@ -56,7 +56,7 @@ This is a full stack chat application built with Next.js for the frontend, Expre
 5. **Start the backend server:**
     ```bash
     cd backend
-    npm start
+    node server.js
     ```
 
 6. **Start the frontend development server:**
