@@ -48,7 +48,7 @@ This is a full stack chat application built with Next.js for the frontend, Expre
     ```
 
 4. **Set up Google Gemini API:**
-    - Obtain API credentials from Google Developer Console.
+    - Obtain API KEY credentials from Google Developer Console.
     - Set up OAuth 2.0 client IDs for the application.
     - Add the credentials to your environment variables.
 
