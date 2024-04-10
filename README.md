@@ -5,7 +5,6 @@ This is a full stack chat application built with Next.js for the frontend, Expre
 ## Features
 
 - **Real-time Chat**: Users can engage in real-time conversations with each other.
-- **User Authentication**: Users can register and log in using Google Gemini API.
 - **Unique Usernames**: Each user has a unique username.
 - **Responsive Design**: The application is responsive and works well across different devices.
 - **Secure Communication**: Messages are transmitted securely over HTTPS.
